@@ -10,7 +10,8 @@ Subject: Econometrics
    
    https://docs.google.com/document/d/1rojG69C1H1dGIZwTgqkMaLQtFGJrVHoU9ODXJakJtCM/edit?usp=sharing
 
-3) "Regression Analysis of Direct and Indirect Tax Contribution to India's Revenue Receipts"
+
+2) "Regression Analysis of Direct and Indirect Tax Contribution to India's Revenue Receipts"
 
 --> Studied the composition and trends of India's tax revenue receipts, examining why indirect taxes outweigh direct taxes despite the Ramsey Rule's recommendation, using descriptive statistics and correlation analysis. Built a log-linear regression model in R showing indirect tax has a stronger effect on total revenue (β=0.71) than direct tax (β=0.28), with the model explaining 99.99% of the variance.
 
