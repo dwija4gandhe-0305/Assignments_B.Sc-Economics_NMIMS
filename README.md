@@ -1,4 +1,5 @@
 # Assignments_B.Sc-Economics_NMIMS
+
 A compact link for all the relevant assignments done during under graduation. 
 
 Subject: Econometrics 
@@ -8,7 +9,9 @@ Subject: Econometrics
 --> https://docs.google.com/document/d/1rojG69C1H1dGIZwTgqkMaLQtFGJrVHoU9ODXJakJtCM/edit?usp=sharing
 
 2) "Regression Analysis of Direct and Indirect Tax Contribution to India's Revenue Receipts"
+
 --> Studied the composition and trends of India's tax revenue receipts, examining why indirect taxes outweigh direct taxes despite the Ramsey Rule's recommendation, using descriptive statistics and correlation analysis. Built a log-linear regression model in R showing indirect tax has a stronger effect on total revenue (β=0.71) than direct tax (β=0.28), with the model explaining 99.99% of the variance.
+
 --> https://docs.google.com/document/d/11B3SVpb5KTSNNQFMvrucSR5_zdz2JWt1/edit?usp=sharing&ouid=113897165556347456641&rtpof=true&sd=true
 
 3) "Time Series Analysis of Sweden's Trade Balance: Autocorrelation, Heteroscedasticity, and Multicollinearity Diagnostics (1960–2023)"
