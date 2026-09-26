@@ -12,14 +12,19 @@ Subject: Econometrics
 
 
 2) "Regression Analysis of Direct and Indirect Tax Contribution to India's Revenue Receipts"
+   
+   Studied the composition and trends of India's tax revenue receipts, examining why indirect taxes outweigh direct taxes despite the Ramsey Rule's recommendation, using descriptive statistics and correlation analysis. Built a log-linear regression model in R showing indirect tax has a stronger effect on total revenue (β=0.71) than direct tax (β=0.28), with the model explaining 99.99% of the variance.
+   
+   https://docs.google.com/document/d/11B3SVpb5KTSNNQFMvrucSR5_zdz2JWt1/edit?usp=sharing&ouid=113897165556347456641&rtpof=true&sd=true
 
---> Studied the composition and trends of India's tax revenue receipts, examining why indirect taxes outweigh direct taxes despite the Ramsey Rule's recommendation, using descriptive statistics and correlation analysis. Built a log-linear regression model in R showing indirect tax has a stronger effect on total revenue (β=0.71) than direct tax (β=0.28), with the model explaining 99.99% of the variance.
-
---> https://docs.google.com/document/d/11B3SVpb5KTSNNQFMvrucSR5_zdz2JWt1/edit?usp=sharing&ouid=113897165556347456641&rtpof=true&sd=true
 
 3) "Time Series Analysis of Sweden's Trade Balance: Autocorrelation, Heteroscedasticity, and Multicollinearity Diagnostics (1960–2023)"
---> Analyzed Sweden's export-import trade balance from 1960–2023 using World Bank data, running diagnostic tests for autocorrelation (Durbin-Watson), heteroscedasticity (Breusch-Pagan), and multicollinearity (VIF) on regression models. Found severe multicollinearity between exports and imports (VIF ≈ 378) alongside significant positive autocorrelation, highlighting key OLS assumption violations despite a near-perfect model fit (adj. R² = 0.997).
---> https://docs.google.com/document/d/1_2FO82U_OIoGULZd89cWIlV0Kzv8uKm_wP5w3OAXmuA/edit?usp=sharing
+
+   Analyzed Sweden's export-import trade balance from 1960–2023 using World Bank data, running diagnostic tests for autocorrelation (Durbin-Watson), heteroscedasticity (Breusch-Pagan), and multicollinearity (VIF) on regression models. Found severe multicollinearity between exports and imports (VIF ≈ 378) alongside significant positive autocorrelation, highlighting key OLS assumption violations despite a near-perfect model fit (adj. R² = 0.997).
+
+   https://docs.google.com/document/d/1_2FO82U_OIoGULZd89cWIlV0Kzv8uKm_wP5w3OAXmuA/edit?usp=sharing
+
+
 
 Subject: Advanced Macroeconomics 
 
