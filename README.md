@@ -6,6 +6,7 @@ Subject: Econometrics
 
 1) "An Econometric Analysis of Rajasthan’s State Domestic Product: The Role of Agriculture and Manufacturing"
    Analyzed Rajasthan’s State Domestic Product (1980–2023) using descriptive statistics and log-linear regression in R, examining the contributions of agriculture and manufacturing across three economic periods. Found significant positive associations for both sectors, with manufacturing exhibiting the larger estimated coefficient.
+   
    https://docs.google.com/document/d/1rojG69C1H1dGIZwTgqkMaLQtFGJrVHoU9ODXJakJtCM/edit?usp=sharing
 
 3) "Regression Analysis of Direct and Indirect Tax Contribution to India's Revenue Receipts"
